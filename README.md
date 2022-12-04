@@ -1,7 +1,7 @@
 # API_amazon_data_extractor
 A simple api which acts as a AMAZON DATA SCRAPER.
 
-###_Tech Used: Vanilla JS, Node, Express_
+### Tech Used: Vanilla JS, Node, Express_
 
 This api acts a data scraper for amazon and gives the product details , reviews and search results for `amazon.com`.
 You can use thsi api for building amazon clone or any app, based on the amazon website.
